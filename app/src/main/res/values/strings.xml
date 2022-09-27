@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">tugas_3</string>
+    <string name="wel">Selamat Datang di Aplikasi Baru</string>
+    <string name="wb">Welcome back</string>
+    <string name="sitocon">Sign in to continue</string>
+    <string name="suname">Username</string>
+    <string name="spass">Password</string>
+    <string name="fopa">Forgot password</string>
+    <string name="enyuname">Enter your username</string>
+    <string name="enyupass">Enter your Password</string>
+    <string name="login">Log In</string>
+
+    <string name="fopa2">Forgot Password</string>
+    <string name="pefopa">Please enter your email below to receive your password reset instructions</string>
+    <string name="sendr">Send Request</string>
+
+    <string name="repa">Reset Password</string>
+    <string name="reco">Reset code</string>
+    <string name="nepa">New password</string>
+    <string name="copa">Confirm password</string>
+    <string name="enyunum">Enter your number</string>
+    <string name="enyucopass">Enter your confirm password</string>
+    <string name="recopa">Reset code was sent to your email. Please enter the code and create new password.</string>
+    <string name="changep">Change Password</string>
+
+    <string name="sukses">Successful\!</string>
+    <string name="ketsuk">You have successfully change password. Please use your new password when logging in.</string>
+    <string name="ketsuklogin">You have successfully login.</string>
+</resources>
